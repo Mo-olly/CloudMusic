@@ -1,4 +1,8 @@
 # cloudmusic
+```
+当时练习vue整的，传上来也是为了练习一下github的使用嘻嘻，有问题欢迎到我的博客留言哦！一起交流学习嘛，拜！
+```
+[博客](https://blog.csdn.net/Mo_olly)
 
 ## [demo预览](https://mo-olly.github.io/vue3-/)
 ```
