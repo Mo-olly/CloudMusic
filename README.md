@@ -1,5 +1,8 @@
 # cloudmusic
 
+#demo预览
+See [demo预览](https://mo-olly.github.io/vue3-/).
+
 ## Project setup
 ```
 npm install
