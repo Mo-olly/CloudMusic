@@ -1,6 +1,6 @@
 //该文件专门用于创建整个应用的路由器
 // 引入路由函数和路由模式函数
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 // 引入组件
 import SongList from '@/views/SecondList/SongList.vue'
 import ContentList from '@/views/FirstList/ContentList.vue'
@@ -25,7 +25,7 @@ const routes = [
 
 const router = createRouter({
     routes,
-    history: createWebHistory()
+    history: createWebHashHistory()
 })
 
 export default router
