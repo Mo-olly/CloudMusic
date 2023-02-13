@@ -1,8 +1,4 @@
 # cloudmusic
-```
-当时练习vue整的，传上来也是为了练习一下github的使用嘻嘻，有问题欢迎到我的博客留言哦！一起交流学习嘛，拜！
-```
-[博客](https://blog.csdn.net/Mo_olly)
 
 ## [demo预览](https://mo-olly.github.io/vue3-/)
 ```
@@ -12,6 +8,12 @@
 因为图片都是从接口获取的，所以有的时候可能会出来有点慢哦
 ```
 ![image](界面展示.png)
+
+```
+当时练习vue整的，传上来也是为了练习一下github的使用嘻嘻，有问题欢迎到我的博客留言哦！一起交流学习嘛，拜！
+哦对了，关于这个项目的博客我弃文了，因为当社畜有点累。
+```
+[博客](https://blog.csdn.net/Mo_olly)
 ## Project setup
 ```
 npm install
