@@ -302,6 +302,7 @@ const initChart = () => {
   const graphChart = echarts.init(jiBeiDom.value);
   graphChart.setOption(option1);
 };
+
 onMounted(() => {
   initChart();
 });
