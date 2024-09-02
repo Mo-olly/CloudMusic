@@ -304,7 +304,6 @@ const initChart = () => {
 };
 onMounted(() => {
   initChart();
-  // console.log(csv);
 });
 </script>
 
