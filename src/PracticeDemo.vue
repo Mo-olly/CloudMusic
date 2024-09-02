@@ -58,9 +58,9 @@ const handle = (value) => {
 };
 
 const chart = ref();
-// const option = reactive({})
 const ups = [80, 300, 90, 140, 70, 80, 0];
 const downs = [120, 300, 150, 300, 270, 0, 100];
+// const option = reactive({})
 // const xData = ['1月', '2月', '3月', '4月', '5月', '6月', '7月'];
 
 // 声明柱图基准宽度
