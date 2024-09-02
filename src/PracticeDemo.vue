@@ -50,10 +50,7 @@
 import AllContent from "./components/AllContent.vue";
 import { ref, onMounted } from "vue";
 import * as echarts from "echarts";
-// let csv = require('/Users/jiaganyu/Desktop/杂九杂十/cloudmusic/src/冀北.csv')
-// import data from './冀北.csv?raw'
-// console.log(data);
-// console.log(echarts);
+
 const a = ["one", "two", "three"];
 const radio = ref("one");
 const handle = (value) => {
